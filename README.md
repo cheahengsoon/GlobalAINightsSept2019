@@ -7,3 +7,8 @@ Learn the end to end process of building deep learning solutions from experiment
 <br/>
 Part 1 - Getting familiar with Deep Learning and PyTorch (start.html)<br/>
 Part 2 - Using Azure Machine Learning service to cloud accelerate deep learning (clould.html)
+- Create Machine Learning service workspace in Microsoft Azure Portal
+- Go to Azure Notebooks change the environments : Requirements, requirement.txt and Python 3.6
+- Click the cloud.ipynb
+- Go to Kernel > Change Kernel > Python 3.6
+- Remember to change the VM Size to vm_size='Standard_DS15_v2' in Cloud Compute section.
