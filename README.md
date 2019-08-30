@@ -1,4 +1,4 @@
-# Global AI Nights Sept 2019
+# Global AI Night Sept 2019
 Intermediate Track - Part 2 Crash course on building and accelerating deep learning solutions
 <br/>
 <br/>
